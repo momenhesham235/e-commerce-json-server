@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start" : "json-server --watch db.json --port 8080"
+    "start": "json-server db.json --watch --port 5005"
   },
   "keywords": [],
   "author": "",
@@ -11,7 +11,9 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.3"
+    "json-serve": "^0.1.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
   }
 }
