@@ -35,7 +35,7 @@
     {
       "id": 1,
       "title": "Jersey top",
-      "price": 249.0,
+      "price": 249,
       "cat_prefix": "men",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:66d6c6af-f423-488e-abe6-8c3028f34a02/as/EID-dc54fbfa38460489839e4789f0b76561a805d528.jpg?preferwebp=true&width=1920",
       "max": 4
@@ -43,7 +43,7 @@
     {
       "id": 2,
       "title": "Regular Fit Jersey top",
-      "price": 229.0,
+      "price": 229,
       "cat_prefix": "men",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:10a8e610-3065-4aee-aacd-ef4a8647161e/as/EID-543eb83d1cf33a048d95208b0d1d8df26afcba62.jpg?preferwebp=true&width=1920&auto=webp",
       "max": 4
@@ -51,7 +51,7 @@
     {
       "id": 3,
       "title": "Cotton polo shirt",
-      "price": 200.0,
+      "price": 200,
       "cat_prefix": "men",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:c314ad7a-595c-465a-9f53-93bdf93f27b6/as/EID-694a0a5441eed2e42995aa19d2ca9ee819ebb71d.jpg?preferwebp=true&width=1920",
       "max": 3
@@ -59,7 +59,7 @@
     {
       "id": 4,
       "title": "Cotton t-shirt",
-      "price": 100.0,
+      "price": 100,
       "cat_prefix": "women",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:7c7ca912-6a6c-45da-a3cd-845992c89b32/as/EID-6b916b2eb8295a9faecad4a7fcdf33cfa43210a4.jpg?preferwebp=true&width=1920&auto=webp",
       "max": 2
@@ -67,7 +67,7 @@
     {
       "id": 5,
       "title": "Sweatshirt shorts",
-      "price": 300.0,
+      "price": 300,
       "cat_prefix": "women",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:88f18def-04da-4f16-8fb8-0cc4d4a3fb9f/as/EID-82ac22581010b717359e30290509d62be0b54010.jpg?preferwebp=true&width=1920&auto=webp",
       "max": 3
@@ -75,7 +75,7 @@
     {
       "id": 6,
       "title": "Velour top",
-      "price": 300.0,
+      "price": 300,
       "cat_prefix": "kids",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:906eb9db-bdb2-4d15-8568-afe31d678f81/as/EID-c51a5541f843e4b9f242cde9e64a467f9303b18f.jpg?preferwebp=true&width=1920",
       "max": 2
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "title": "Pile all-in-one suit with ears",
-      "price": 500.0,
+      "price": 500,
       "cat_prefix": "baby",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:eb70d79a-462a-45e5-a213-12c9f2af7895/as/EID-f0c2edce483fb1e4c080bd9af8fdfb4d5d53954a.jpg?preferwebp=true&width=1920&auto=webp",
       "max": 2
@@ -91,10 +91,17 @@
     {
       "id": 17,
       "title": "Regular Fit football shirt",
-      "price": 449.0,
+      "price": 449,
       "cat_prefix": "sport",
       "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:6c8e675e-6e7a-492d-9e56-e3893f8df385/as/EID-0b2d29caa3b12764222e531d0b240a4af0bdaa98.jpg?preferwebp=true&width=1920&auto=webp",
       "max": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": 1,
+      "productId": 5,
+      "id": 1
     }
   ]
 }
