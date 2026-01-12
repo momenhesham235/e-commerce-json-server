@@ -1,4 +1,20 @@
 {
+  "users": [
+    {
+      "email": "momenhesham@std.mans.edu.eg",
+      "password": "$2a$10$rxViGsF/sxwXC4vXvkyxw.gYuu/InZhmdWPW/5Cwdsur6q2/Cul6G",
+      "firstName": "Momen",
+      "lastName": "hesham",
+      "id": 1
+    },
+    {
+      "email": "hmomen235@gmail.com",
+      "password": "$2a$10$cU7iDkt51dVhmtUYQoIGNOMnRz4o.z5CNGRE9geC3lUE0.BqyblTi",
+      "firstName": "Ahmed",
+      "lastName": "Ali",
+      "id": 2
+    }
+  ],
   "categories": [
     {
       "id": 1,
@@ -97,11 +113,6 @@
       "max": 2
     }
   ],
-  "wishlist": [
-    {
-      "userId": 1,
-      "productId": 5,
-      "id": 1
-    }
-  ]
+  "wishlist": [],
+  "orders": []
 }
