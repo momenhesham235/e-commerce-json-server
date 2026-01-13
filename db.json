@@ -116,64 +116,29 @@
   "wishlist": [
     {
       "userId": 1,
-      "productId": 5,
+      "productId": 17,
       "id": 1
     },
     {
       "userId": 1,
-      "productId": 4,
+      "productId": 1,
       "id": 2
     }
   ],
   "orders": [
     {
       "userId": 1,
-      "subtotal": 300,
+      "subtotal": 600,
       "items": [
         {
           "id": 5,
           "title": "Sweatshirt shorts",
           "price": 300,
           "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:88f18def-04da-4f16-8fb8-0cc4d4a3fb9f/as/EID-82ac22581010b717359e30290509d62be0b54010.jpg?preferwebp=true&width=1920&auto=webp",
-          "quantity": 1
+          "quantity": 2
         }
       ],
       "id": 1
-    },
-    {
-      "userId": 1,
-      "subtotal": 1849,
-      "items": [
-        {
-          "id": 4,
-          "title": "Cotton t-shirt",
-          "price": 100,
-          "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:7c7ca912-6a6c-45da-a3cd-845992c89b32/as/EID-6b916b2eb8295a9faecad4a7fcdf33cfa43210a4.jpg?preferwebp=true&width=1920&auto=webp",
-          "quantity": 2
-        },
-        {
-          "id": 5,
-          "title": "Sweatshirt shorts",
-          "price": 300,
-          "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:88f18def-04da-4f16-8fb8-0cc4d4a3fb9f/as/EID-82ac22581010b717359e30290509d62be0b54010.jpg?preferwebp=true&width=1920&auto=webp",
-          "quantity": 3
-        },
-        {
-          "id": 6,
-          "title": "Velour top",
-          "price": 300,
-          "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:906eb9db-bdb2-4d15-8568-afe31d678f81/as/EID-c51a5541f843e4b9f242cde9e64a467f9303b18f.jpg?preferwebp=true&width=1920",
-          "quantity": 1
-        },
-        {
-          "id": 17,
-          "title": "Regular Fit football shirt",
-          "price": 449,
-          "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:6c8e675e-6e7a-492d-9e56-e3893f8df385/as/EID-0b2d29caa3b12764222e531d0b240a4af0bdaa98.jpg?preferwebp=true&width=1920&auto=webp",
-          "quantity": 1
-        }
-      ],
-      "id": 2
     }
   ]
 }
