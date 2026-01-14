@@ -113,18 +113,7 @@
       "max": 2
     }
   ],
-  "wishlist": [
-    {
-      "userId": 1,
-      "productId": 17,
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "productId": 1,
-      "id": 2
-    }
-  ],
+  "wishlist": [],
   "orders": [
     {
       "userId": 1,
